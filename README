@@ -1,2 +1,7 @@
+Word Co-occurence Stats
+
 Given a word, what other words are statistically associated with it? 
 If I say 'love', or 'death', or 'terrorism', what other words and concepts go with it?
+
+Use hadoop framework to calculate the co-occurence rate among words.
+Sample results are in /results.
